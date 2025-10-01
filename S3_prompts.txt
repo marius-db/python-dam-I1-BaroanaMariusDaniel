@@ -1,0 +1,16 @@
+perfil.py prompt:
+
+--1
+please create a code where you ask the user for their name and then their birth year 
+and then clasify them based on their age if they are under 18, between 18 and 65 or over 65,
+handle error cases if the user puts anything else except a number as the birth year and then 
+also make sure to leave comments in the code explaining it where you see fit
+
+eco_io.py:
+
+--1
+please create a code where you ask the user for 3 numbers and then you use those 3 numberss to do their sum,
+ which number is the biggest and then the average of the numbers and show them to the user. comment the code where you seem fit
+
+ --2
+ also make sure to handle possible errors
