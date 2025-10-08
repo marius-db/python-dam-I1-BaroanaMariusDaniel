@@ -14,3 +14,12 @@ please create a code where you ask the user for 3 numbers and then you use those
 
  --2
  also make sure to handle possible errors
+
+ lista_numeros.py:
+ --1
+ make a file called lista_numeros.py in which you ask the user for a list of numbers to write separated with comas(,) 
+ and then you show the numbers inserted, the sum of them, the average of them, the max one and if there are duplicants. 
+ use very basic and simple methods to do this,don't overcomplicated or use stuff outside of the range of a beginner when it comes to python
+
+--2
+ take care of all possible errors that could appear in this code and add comments explaining what every part of the code does
