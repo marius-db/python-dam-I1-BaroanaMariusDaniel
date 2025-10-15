@@ -1,9 +1,6 @@
-"""Simple script to read a list of numbers separated by commas and show
-the numbers, their sum, average, maximum and whether there are duplicates.
+## Simple program to read a list of numbers separated by commas and show
+## the numbers, their sum, average, maximum and whether there are duplicates.
 
-This file uses only very basic Python constructs so it is suitable for
-beginners and includes comments explaining each step.
-"""
 
 
 def main():
