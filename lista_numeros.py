@@ -9,7 +9,7 @@ def main():
 	try:
 		input_str = input("Enter a list of numbers separated by commas: ")
 	except (KeyboardInterrupt, EOFError):
-		# If the user cancels the input, print a message and exit cleanly.
+		# If the user cancels the input, print a message and exit cleanly. EOFError for when user uses Ctrl+D/Ctrl+Z and KeyboardInterrupt for when user uses Ctrl+C
 		print('\nInput cancelled by the user.')
 		return
 
