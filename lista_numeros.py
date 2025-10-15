@@ -53,6 +53,7 @@ def main():
 		numbers.append(n)
 
 	# If there are no valid numbers, inform the user and stop.
+	# len shows the lenght of a sequences like lists or strings
 	if len(numbers) == 0:
 		print("No valid numbers were entered.")
 		return
