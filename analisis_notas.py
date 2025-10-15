@@ -4,7 +4,6 @@
 #prints a summary: count, average, min, max, pass% (>=5), excellent% (>=9),
 #most frequent grade(s), and a message based on the average.
 
-
 def parse_grades(input_str):
     """Parse a comma-separated string of grades into a list of floats.
 
@@ -26,6 +25,7 @@ def parse_grades(input_str):
             num = float(s)
         except ValueError:
             raise ValueError(f"Invalid number: '{s}'")
+        # adding grades to list
         grades.append(num)
 
     if not grades:

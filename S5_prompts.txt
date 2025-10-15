@@ -6,7 +6,5 @@ The program should process the input and display a summary: total number of grad
 minimum and maximum, percentage of passes (≥5), percentage of excellents (≥9), and the most frequent grade(show all if there’s any ties) 
 and then based on the average, print one of the following messages: “Excellent level” (average ≥ 8), “Average level” (5–7.9), or 
 “Needs improvement” (average < 5).
-Use beginner-friendly Python code with clear comments explaining each step. Validate input using try/except to ensure all values are valid numbers. Handle errors like empty input, extra spaces, or invalid data gracefully. Use f-strings for output formatting and import necessary modules like statistics.
-
---2
-can you do it without using counter or any other imports? make it as beginner level code
+Use beginner friendly Python code with clear comments explaining each step. Validate input using try/except to ensure all values are valid numbers. Handle errors like empty input, extra spaces, or invalid data gracefully. Use f-strings for output formatting and import necessary modules like statistics.
+Also don't use imports and just simple code
