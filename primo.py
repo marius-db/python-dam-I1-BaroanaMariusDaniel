@@ -1,5 +1,5 @@
+# primo.py
 # This program asks the user to enter a number and tells if it is prime or not.
-
 # A prime number is a number greater than 1 that has no divisors other than 1 and itself.
 
 # Get input from the user

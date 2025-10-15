@@ -1,10 +1,8 @@
-"""analisis_notas.py
-Beginner-friendly script to analyze a list of grades entered by the user.
+#analisis_notas.py
 
-The program asks for grades separated by commas, validates them, and
-prints a summary: count, average, min, max, pass% (>=5), excellent% (>=9),
-most frequent grade(s), and a message based on the average.
-"""
+#The program asks for grades separated by commas, validates them, and
+#prints a summary: count, average, min, max, pass% (>=5), excellent% (>=9),
+#most frequent grade(s), and a message based on the average.
 
 
 def parse_grades(input_str):
