@@ -1,0 +1,36 @@
+lista_numeros.py:
+--1
+make a file called lista_numeros.py in which you ask the user for a list of numbers to write separated with comas(,) 
+and then you show the numbers inserted, the sum of them, the average of them, the max one and if there are duplicants. 
+use very basic and simple methods to do this,don't overcomplicated or use stuff outside of the range of a beginner when it comes to python
+
+--2
+take care of all possible errors that could appear in this code and add comments explaining what every part of the code does
+
+temperaturas.py:
+--1
+make a simple beginner friendly python code file called temperaturas.py which converts temperatures that are in Celcius to Kelvin or Farenheit 
+OR of you want Kelvin to Celcius/Farenheit or Farenheit to kelvin/celcius. Make it simple and make sure to include lots of comments explaining 
+how everything works in beginner friendly explanations wherever u see fit.
+
+--2
+now that the file was created i want you to make sure you are taking care of all potential errors that might happen and add comments explaining them
+
+cadena.py:
+
+--1
+make me a file called cadena.py with python beginner friendly code that takes a word/phrase from the user and then shows the user how many vocals are in that word/phrase. 
+add comments everywhere you seem fit to explain all elements in the code in beginner friendly wording
+
+--2
+now that the file cadena.py was created i want you to make sure you are taking care of all potential errors that might happen and add comments explaining them
+
+primo.py:
+
+--1
+make me a primo.py code file which asks the user to enter a number and it then says if that number is prime or not, 
+make the code be simple and beginner friendly and explain everything in the code using comments
+
+--2
+good, now please make sure you take care of all possible errors that might happen by like for example if the user writes 
+or letter or a float number or anything else that might happen, take care of everything and make sure to comment these errors too
